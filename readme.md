@@ -8,18 +8,18 @@ Best,
 Michael Fudge  
 ## For Students
 
-#### Textbook
+### Textbook
 
 - If you are:
   - A student enrolled in a university course, please check with your instructor as to how to access the textbook.
   - An independent learner,visit [https://www.grlcontent.com/](https://www.grlcontent.com/) and click **Purchase**.  
   For **Institution** Choose **Syracuse University** and for **Online Publication**, Select **Applied Database Management**.
 
-#### Lab environment
+### Lab environment
 
 - The database environment for coding and the labs can be found here: [https://mafudge.github.io/learn-databases/](https://mafudge.github.io/learn-databases/)
 
-#### Course Content
+### Course Content
 
 - The videos, labs, etc... are being finalized. Check back soon!
 
@@ -27,3 +27,7 @@ Michael Fudge
 
 - You can find more information on the textbook here: [https://www.greatriverlearning.com/product-details/1947](https://www.greatriverlearning.com/product-details/1947)
 - When you adopt the textbook, You will be provided lesson plans and answers to the lab exercises.
+
+## Problems / Issues ?
+
+Please log any problems with the content through the issue tracker: [https://github.com/mafudge/applied-database-management/issues](https://github.com/mafudge/applied-database-management/issues)
