@@ -1,14 +1,19 @@
 # Applied Database Management
 
-This website is dedicated to the textbook **Applied Database Management** and supplemental resources required to teach or learn with the book. I realize there are many options out there for learning database design and SQL and I thank you in advance for considering my course. The goal of **Applied Database Management** has always been more than just a textbook, but and entire suite of resources to help you to learn!
+Welcome!  
 
+This website is dedicated to the textbook **Applied Database Management** and supplemental resources required to teach or learn with the book. I realize there are many options out there for learning database design and SQL and I thank you in advance for considering my course. The goal of **Applied Database Management** has always been more than just a textbook, but and entire suite of resources that make it easy for you to teach and learn this subject!
+
+Best,  
+Michael Fudge  
 ## For Students
 
 #### Textbook
 
 - If you are:
   - A student enrolled in a university course, please check with your instructor as to how to access the textbook.
-  - An independent learner,visit [https://www.grlcontent.com/](https://www.grlcontent.com/) and click **Purchase**. For **Institution** Choose **Syracuse University** and for **Online Publication**, Select **Applied Database Management**.
+  - An independent learner,visit [https://www.grlcontent.com/](https://www.grlcontent.com/) and click **Purchase**.  
+  For **Institution** Choose **Syracuse University** and for **Online Publication**, Select **Applied Database Management**.
 
 #### Lab environment
 
