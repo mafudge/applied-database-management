@@ -22,7 +22,9 @@ Michael Fudge
 
 ### Course Content
 
-- The videos, labs, etc... are being finalized. Check back soon!
+- Slides, Labs, Sample Code: [https://github.com/mafudge/ist659]([https://github.com/mafudge/ist659])
+- Videos From Textbook: [https://www.youtube.com/watch?v=96uKeHSQMkg&list=PLyRiRUsTyUXghCQTvsCeMjOCVjIIPsopR](https://www.youtube.com/watch?v=96uKeHSQMkg&list=PLyRiRUsTyUXghCQTvsCeMjOCVjIIPsopR)
+- Active-Learning Lecture Videos: [https://www.youtube.com/watch?v=WCNLH9CFN6o&list=PLyRiRUsTyUXjzOociFB7jak16OrpntUZk](https://www.youtube.com/watch?v=WCNLH9CFN6o&list=PLyRiRUsTyUXjzOociFB7jak16OrpntUZk)
 
 ## For Teachers
 
